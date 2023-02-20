@@ -15,6 +15,12 @@ body
     margin:0;
     padding:.5em
 }
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline
 {
     padding:0 0 0 1em;
